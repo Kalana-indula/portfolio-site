@@ -27,10 +27,10 @@ const Footer = () => {
                   <SocialIcons href="https://google.com">
                       <AiFillGithub size="3rem" />
                   </SocialIcons>
-                  <SocialIcons href="https://google.com">
+                  <SocialIcons href="https://www.linkedin.com/in/kalana-indula-de-costa1995117/">
                       <AiFillLinkedin size="3rem" />
                   </SocialIcons>
-                  <SocialIcons href="https://google.com">
+                  <SocialIcons href="https://github.com/Kalana-indula">
                       <AiFillInstagram size="3rem" />
                   </SocialIcons>
               </SocialContainer>

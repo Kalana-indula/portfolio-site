@@ -39,10 +39,10 @@ const Header = () =>  (
 
         {/* social links section */}
         <Div3>
-            <SocialIcons href="https://github.com">
+            <SocialIcons href="https://github.com/Kalana-indula">
                 <AiFillGithub size="3rem" />
             </SocialIcons>
-            <SocialIcons href="https://linkedin.com">
+            <SocialIcons href="https://www.linkedin.com/in/kalana-indula-de-costa1995117/">
                 <AiFillLinkedin size="3rem" />
             </SocialIcons>
         </Div3>
