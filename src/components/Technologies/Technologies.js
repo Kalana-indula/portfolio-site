@@ -20,7 +20,8 @@ const Technologies = () =>  (
                     <ListTitle>Front-End</ListTitle>
                     <ListParagraph>
                         Experiece with <br />
-                        React.js
+                        React.js , Next.js and Styling libraries like Tailwind CSS <br/>
+                        and CSS frameworks like Bootstrap
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
@@ -32,22 +33,24 @@ const Technologies = () =>  (
                     <ListTitle>Back-End</ListTitle>
                     <ListParagraph>
                         Experience with <br />
-                        Node and Databases
+                        Node,Express, Spring Boot and Both NoSQL and SQL Databases. <br/>
+                        And ORM tools like Hibernate. <br/>
+                        Containerization tools like Docker .
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
-            <ListItem>
-                <picture>
-                    <DiZend size="3rem" />
-                </picture>
-                <ListContainer>
-                    <ListTitle>UI/UX</ListTitle>
-                    <ListParagraph>
-                        Experience with <br />
-                        tools like Figma
-                    </ListParagraph>
-                </ListContainer>
-            </ListItem>
+            {/*<ListItem>*/}
+            {/*    <picture>*/}
+            {/*        <DiZend size="3rem" />*/}
+            {/*    </picture>*/}
+            {/*    <ListContainer>*/}
+            {/*        <ListTitle>UI/UX</ListTitle>*/}
+            {/*        <ListParagraph>*/}
+            {/*            Experience with <br />*/}
+            {/*            tools like Figma*/}
+            {/*        </ListParagraph>*/}
+            {/*    </ListContainer>*/}
+            {/*</ListItem>*/}
         </List>
         <SectionDivider colorAlt />
     </Section>

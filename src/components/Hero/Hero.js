@@ -9,13 +9,13 @@ const Hero = (props) => (
       <LeftSection>
           {/*Hero section main title*/}
           <SectionTitle main center>
-              Welcome To <br/>
+              Hello, Welcome To <br/>
               My Personal Portfolio
           </SectionTitle>
 
       {/*some description*/}
           <SectionText>
-              The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+              Hi, I’m Kalana Indula, a full-stack software developer who builds secure, scalable web apps with Spring Boot, Node/Express, and Next.js. I turn complex ideas into clean, user friendly experiences, from simple websites to enterprise grade backends. I’m passionate about quality over quantity, and I love collaborating with fellow developers, sharing ideas, and helping solve real problems with practical solutions.
           </SectionText>
           <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
