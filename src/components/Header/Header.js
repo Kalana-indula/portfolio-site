@@ -1,17 +1,24 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck } from 'react-icons/di';
+
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import Image from "next/image";
 
 const Header = () =>  (
     <Container>
         <Div1>
             {/* Use legacyBehavior here and move style to <a> */}
             <Link href="/" legacyBehavior>
-                <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: "20px" }}>
-                    <DiCssdeck size="3rem" />
+                <a style={{ display: "flex", alignItems: "center", color: "white" }}>
+                    <Image
+                        src="/images/logo.png"
+                        alt="Kalana Indula logo"
+                        width={65}
+                        height={65}
+                        style={{ marginRight: "0.1rem" }}
+                    />
                     <span>Kalana Indula</span>
                 </a>
             </Link>
