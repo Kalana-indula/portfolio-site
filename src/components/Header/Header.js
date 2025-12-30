@@ -12,7 +12,7 @@ const Header = () =>  (
             <Link href="/" legacyBehavior>
                 <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: "20px" }}>
                     <DiCssdeck size="3rem" />
-                    <span>Portfolio</span>
+                    <span>Kalana Indula</span>
                 </a>
             </Link>
         </Div1>
