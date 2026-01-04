@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
+    image: 'https://hpburacqqqznxogowkpn.supabase.co/storage/v1/object/sign/portfolio%20images/AI%20Resume%20Analyzer.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOWE2YTQzMi04Y2NjLTRhYmYtYjQ4NS03N2RhY2E3MTU2MWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8gaW1hZ2VzL0FJIFJlc3VtZSBBbmFseXplci5qcGciLCJpYXQiOjE3Njc1MjEwMjEsImV4cCI6MTc5OTA1NzAyMX0.q5thC00qFGnXbUP_TuoKSU-3HyAN7eEFdOCc3hNwY6M',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://google.com',
