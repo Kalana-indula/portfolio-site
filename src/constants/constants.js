@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Enterprise Dashboard',
-    description: "Enterprise Dashboard is a modern, scalable web application template built with **React**, **TypeScript**, and **Vite**, offering fast development with HMR, a modular architecture, and ESLint-driven code quality—ideal for building high-performance, data-rich enterprise interfaces.",
+    description: "Enterprise Dashboard is a modern, scalable web application template built with React, TypeScript, and Vite, offering fast development with HMR, a modular architecture, and ESLint-driven code quality—ideal for building high-performance, data-rich enterprise interfaces.",
       image: 'https://hpburacqqqznxogowkpn.supabase.co/storage/v1/object/sign/portfolio%20images/Enterprise.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOWE2YTQzMi04Y2NjLTRhYmYtYjQ4NS03N2RhY2E3MTU2MWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8gaW1hZ2VzL0VudGVycHJpc2UuanBnIiwiaWF0IjoxNzY3NTQxODU4LCJleHAiOjE3OTkwNzc4NTh9.RE9AsvuumuDYPVFiEj-cf8rcqGmtMoaGkCTkvggdXpc',
       tags: ['React', 'Vite','Material UI'],
     source: 'https://github.com/Kalana-indula/enterprise-dashboard.git',
